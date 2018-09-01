@@ -7,7 +7,7 @@ I worked on this project shortly after a sting of fires in Northern California. 
 
 ## Brief Insights
 
-![number of wildfires by cause in 2016](https://user-images.githubusercontent.com/31706194/44948653-6a21b280-add6-11e8-8592-a7a226b85b96.png)
+![acres burned yoy](https://user-images.githubusercontent.com/31706194/44948658-7efe4600-add6-11e8-8ab1-04aa0d947707.png)
 
 In terms of acres burned, there is an increasing trend of fires Year over Year. A spike in this chart generally correspond to a large (top 20 in the history of CA) fire occurring that year.
 
