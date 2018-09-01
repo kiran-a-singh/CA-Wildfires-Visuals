@@ -9,7 +9,7 @@ I worked on this project shortly after a sting of fires in Northern California. 
 
 ![acres burned yoy](https://user-images.githubusercontent.com/31706194/44948658-7efe4600-add6-11e8-8ab1-04aa0d947707.png)
 
-In terms of acres burned, there is an increasing trend of fires Year over Year. A spike in this chart generally correspond to a large (top 20 in the history of CA) fire occurring that year.
+In terms of acres burned, there is an increasing trend of fires Year over Year. A spike in acres burned generally corresponds to a large (defined as top 20 in the history of CA) fire occurring that year.
 
 ![suppression costs yoy](https://user-images.githubusercontent.com/31706194/44948657-7efe4600-add6-11e8-86bc-2ae0d0d0505d.png)
 
