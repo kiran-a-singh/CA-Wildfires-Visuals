@@ -2,7 +2,7 @@
 ***
 
 ## Summary
-I worked on this project shortly after a sting of fires in Northern California. A fire happened 1 mile away from my home and wildfires were dominating the news cycle. I wanted to explore California wildfire data to see if fires were truly increasing or if my experience was simply anecdotal. The project was done mainly using Pandas and Seaborn in Python. 
+I worked on this project shortly after a string of fires in Northern California. A fire happened 1 mile away from my home and wildfires were dominating the news cycle. I wanted to explore California wildfire data to see if fires were truly increasing or if my experience was simply anecdotal. The project was done mainly using Pandas and Seaborn in Python. 
 
 
 ## Brief Insights
