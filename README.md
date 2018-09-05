@@ -15,7 +15,7 @@ In terms of acres burned, there is an increasing trend of fires Year over Year. 
 
 Year over Year suppression costs (cost of putting wildfires out) show a a much clearer increasing trend. Suppression costs in recent years are higher than they have ever been. Costs in 2016 were around 3x higher than costs in 2012.
 
-### Other insights on fires by cause for 2016 are the attached Jupyter Notebook.
+### Other insights on fires by cause for 2016 are in the attached Jupyter Notebook.
 
 ## Next Steps
 I would like to expand the analysis to include a comparison of Large (acreage) vs. Destructive ($ damage) wildfires, I would like to generate a heatmap on an interactive map of California, and I would like to explore trends in the time of day and month of year of fires.
